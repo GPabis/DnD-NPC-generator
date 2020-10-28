@@ -1,4 +1,4 @@
-package com.charactergenerator.scrapper;
+package com.charactergenerator.dataScrappers;
 import com.charactergenerator.entities.traitEntity.TraitEntity;
 import com.charactergenerator.entities.traitEntity.TraitEntityRepository;
 import com.charactergenerator.entities.traitEntity.TraitTypes;
@@ -73,4 +73,6 @@ public class TraitScrapper {
                 }
         ));
     }
+
+
 }

@@ -1,4 +1,4 @@
-package com.charactergenerator.scrapper;
+package com.charactergenerator.dataScrappers;
 import com.charactergenerator.entities.professionEntity.ProfessionEntity;
 import com.charactergenerator.entities.professionEntity.ProfessionRepository;
 import com.charactergenerator.LocalDatabase;
