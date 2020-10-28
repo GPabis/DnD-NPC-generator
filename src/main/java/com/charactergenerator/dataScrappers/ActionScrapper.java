@@ -1,4 +1,4 @@
-package com.charactergenerator.scrapper;
+package com.charactergenerator.dataScrappers;
 import com.charactergenerator.entities.actionEntity.ActionEntity;
 import com.charactergenerator.entities.actionEntity.ActionEntityRepository;
 import lombok.Data;
